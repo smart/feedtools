@@ -32,3 +32,5 @@ a migration file.  A migration file has been supplied with FeedTools and can
 be found in the db directory.  Run
 <tt>script/generate migration add_feed_tools_tables</tt> and then copy and
 paste the contents of db/migration.rb into your new migration file.
+
+ADDED HTTPS support (very basic) with this fork
